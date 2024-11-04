@@ -13,7 +13,7 @@
 
 ## 课程模块导航
 
-- [LangChain](#)  
+- [LangChain Tutorial](https://github.com/ophiraShen/LLMTutorial/tree/main/LangChain_Tutorial)  
   探索 LangChain 的基本概念、环境搭建及核心组件，学习如何高效构建大模型应用。
 
 - [LangGraph](#)  
