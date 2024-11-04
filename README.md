@@ -13,7 +13,7 @@
 
 ## 课程模块导航
 
-- [LangChain Tutorial](https://github.com/ophiraShen/LLMTutorial/tree/main/LangChain_Tutorial)    [b站视频教程](https://www.bilibili.com/video/BV18TDHYLEik/?spm_id_from=333.999.0.0&vd_source=ce0d4970aeeed677f1714a1608c6d8b0)
+- [LangChain Tutorial](https://github.com/ophiraShen/LLMTutorial/tree/main/LangChain_Tutorial)      ([b站视频教程](https://www.bilibili.com/video/BV18TDHYLEik/?spm_id_from=333.999.0.0&vd_source=ce0d4970aeeed677f1714a1608c6d8b0))
 - 探索 LangChain 的基本概念、环境搭建及核心组件，学习如何高效构建大模型应用。
 
 
